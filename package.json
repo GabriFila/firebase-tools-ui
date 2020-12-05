@@ -31,7 +31,7 @@
     "@rmwc/top-app-bar": "^6.0.14",
     "@rmwc/types": "^6.0.5",
     "@rmwc/typography": "^6.0.14",
-    "@rooks/use-key": "^3.6.0",
+    "@rooks/use-key": "^4.0.0",
     "@types/jest": "^26.0.0",
     "@types/node": "^13.9.3",
     "@types/react": "^17.0.0",
